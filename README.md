@@ -1,5 +1,3 @@
-# Regression-and-Time-Series-
-
 This project focuses on analyzing the popularity of online news articles using AI-driven techniques. A scalable data ingestion and storage pipeline was developed to process 30K+ articles, integrating real-time anomaly detection and LLM-based text classification to identify misinformation patterns.
 
 Key contributions include:
