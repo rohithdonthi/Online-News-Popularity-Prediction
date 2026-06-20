@@ -37,8 +37,8 @@ RMarkdown · Jupyter
 - `Data Cleaning nd Preprocessing.ipynb` - cleaning pipeline, 
   feature engineering, outlier handling
 - `Linear Models.Rmd` - regression analysis with model diagnostics
-- `Regression Project cleaned.R` — consolidated R analysis script
-- `RTSA Project ANN.ipynb` — neural network implementation 
+- `Regression Project cleaned.R` - consolidated R analysis script
+- `RTSA Project ANN.ipynb` - neural network implementation 
   and comparison
 - `Regression Project Report.pdf` - full written report with 
   methodology and results
